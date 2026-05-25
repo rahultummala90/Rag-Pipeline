@@ -1,0 +1,3 @@
+
+    Machine Learning is a subset of artificial intelligence that enables computers to learn and make decisions from data. Instead of being explicitly programmed for every task, machine learning algorithms identify patterns in data and use these patterns to make predictions or take actions. Common applications include image recognition, natural language processing, recommendation systems, and fraud detection. Popular machine learning frameworks and libraries include TensorFlow, PyTorch, scikit-learn, and Keras. The field continues to evolve rapidly, driving innovations in various industries.
+    
