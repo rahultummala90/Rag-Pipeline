@@ -8,3 +8,7 @@ openpyxl
 networkx
 pandas
 msoffcrypto-tool
+sentence-transformers
+faiss-cpu
+chromadb
+
