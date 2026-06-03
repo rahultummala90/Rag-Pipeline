@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .venv-1
+
+# Vector store (generated at runtime)
+data/vectore_store/
