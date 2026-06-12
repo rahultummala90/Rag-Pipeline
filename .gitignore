@@ -12,3 +12,4 @@ wheels/
 
 # Vector store (generated at runtime)
 data/vectore_store/
+.env
